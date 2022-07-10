@@ -8,17 +8,17 @@
 
 - [x] What is Open Web Platform?
   - [x] Technical Specification
-  - [ ] HTML 5.2
-    - [ ] Semantic Advantage
-    - [ ] Connectivity Advantage
-    - [ ] Storage Advantage
-    - [ ] Multimedia Advantage
-    - [ ] Performance Advantage
-    - [ ] Device Access Advantage
-    - [ ] Specification
-  - [ ] Web Assembly
-    - [ ] Safe
-    - [ ] Fast
+  - [x] HTML 5.2
+    - [x] Semantic Advantage
+    - [x] Connectivity Advantage
+    - [x] Storage Advantage
+    - [x] Multimedia Advantage
+    - [x] Performance Advantage
+    - [x] Device Access Advantage
+    - [x] Specification
+  - [x] Web Assembly
+    - [x] Safe
+    - [x] Fast
     - [ ] Portable Code
     - [ ] Compact Code
     - [ ] Specification
@@ -127,3 +127,75 @@ In terms of performance, we have used a javascript engine that supports JIT comp
 ### Device Access Advantage
 
 From the Device Access side there is support such as Geolocation which allows the browser to access the user's location, there is a Touch Event that can be used to detect screen touches, there is a Device Orientation Detection that can read the screen position in portrait or landscape, and the Pointer lock API to lock the pointer on an object within some content on the web.
+
+
+
+### Specification
+
+The specifications are at:
+
+https://html.spec.whatwg.org/multipage/
+
+HTML 5 has grown into a collection of browser technologies that can enable web developers to develop complex web applications. Most of the HTML 5 specifications are made by the W3C Technical Report (TR) document, but there are also specifications that are not made by the W3C (non-W3C Technical Report (TR)).
+
+At the time of writing there are 153 active specifications being developed in HTML 5 technology:
+
+http://html5-overview.net/current
+
+<img src="assets/HTML5-Specs.PNG" style="zoom:120%;" />
+
+
+
+---
+
+
+
+## Web Assembly
+
+Web Assembly is one of the latest technology from the Open Web Platform developed by the W3C. We can clearly see this statement on the official assembly web site:
+
+<img src="assets/WebAssembly.png" style="zoom:110%;" />
+
+Initially designed so that applications written in programming languages such as C/C++ & Rust can run in modern browsers. C/C++ & Rust languages will be compiled to produce Web Assembly, the magnitude speed of web assembly is faster than javascript.
+
+Technically, Web Assembly uses a javascript engine that can mimic a virtual machine to read binary instruction formats in a stack-based-machine style.
+
+The impact of Web Assembly innovation is powerful for the development on heavy applications in many domains such as Computer Vision, 3D Processing, WebVR, & Image Processing can be achieved with great performance speeds. The Speed of Web Assembly near native code execution.
+
+Web Assembly is an abstraction for modern hardware, which makes it a platform-independent computer language. 
+
+Web assembly has several advantages:
+
+
+
+### Safe 
+
+The availability of a managed language that implements memory safety by preventing programs from accessing or manipulating user data and systems.
+
+
+
+### Fast 
+
+Able to produce native code that has been optimized so that it can optimally utilize all the performance capabilities of the computer machine.
+
+
+
+### Portable Code 
+
+It is platform-independent, running on all modern browsers and computer architectures.
+
+
+
+### Compact Code 
+
+Can be sent over lightweight networks to reduce time, save bandwidth and be responsive.
+
+
+
+<img src="assets/WebAssembly-Browser.png" style="zoom:110%;" />
+
+### Specification
+
+Specifications in:
+
+http://webassembly.github.io/spec/core/
