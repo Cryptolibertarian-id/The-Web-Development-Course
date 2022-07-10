@@ -33,6 +33,140 @@
   - [ ] WebGL
     - [ ] Specification
     - [ ] Application
+- [ ] What is Web Application?
+  - [ ] Server
+    - [ ] File Server
+    - [ ] Mail Server
+    - [ ] Proxy Server
+    - [ ] Application Server
+    - [ ] Database Server
+    - [ ] Messaging Server
+  - [ ] Virtual Private Server
+    - [ ] Virtualization
+      - [ ] Multiple Execution Environment
+    - [ ] Virtual Machine
+    - [ ] Hypervisor
+  - [ ] Web Server
+  - [ ] Web Page
+    - [ ] Static Page
+    - [ ] Dynamic Page
+    - [ ] Progressive Web Application (PWA)
+    - [ ] Single Page Application (SPA)
+  - [ ] Network
+    - [ ] Personal Area Network (PAN)
+    - [ ] Local Area Network (LAN)
+    - [ ] World Area Network (WAN)
+    - [ ] Internet Service Provider (ISP)
+  - [ ] Internet
+    - [ ] Internet Transit
+    - [ ] Sattelite & Fiber Optic
+  - [ ] Internet Exchange Point
+  - [ ] Content Delivery Network (CDN)
+- [ ] What is Cloud Computing?
+  - [ ] Cloud Computing Execution Model
+    - [ ] Infrastructure as a Service (IaaS)
+    - [ ] Platform as a Service (PaaS)
+    - [ ] Software as a Service (SaaS)
+    - [ ] Container as a Service (CaaS)
+    - [ ] Function as a Service (FaaS)
+  - [ ] Cloud Service Provider
+  - [ ] Scalability
+    - [ ] Vertical Scaling
+    - [ ] Horizontal Scaling
+    - [ ] Autoscaling
+      - [ ] Over-provisioning
+      - [ ] Under-provisioning
+  - [ ] Load Balancer
+  - [ ] Serverless Computing
+    - [ ] FaaS Provider
+    - [ ] AWS Lambda
+  - [ ] What is HTTP?
+    - [ ] HTTP & URL
+      - [ ] HTTP
+      - [ ] Hypertext & Hyperlink
+        - [ ] HTML
+      - [ ] Hypermedia
+      - [ ] World Wide-Web (www)
+      - [ ] Uniform Resources Identifier
+      - [ ] URL / Web Resources
+        - [ ] Protocol
+        - [ ] Hostname
+        - [ ] Path
+        - [ ] Filename
+          - [ ] Port
+          - [ ] Query
+          - [ ] Fragments
+          - [ ] Encoding
+    - [ ] HTTP & DNS
+      - [ ] IP Address
+      - [ ] DNS Resolver
+      - [ ] Root Server & TLD Server
+    - [ ] HTTP Transaction
+      - [ ] TCP Three-way Handshake
+        - [ ] Connection Setup
+        - [ ] Data Exchange
+        - [ ] Connection Termination
+    - [ ] HTTP Request
+    - [ ] HTTP Response
+    - [ ] HTTP Status Message
+  - [ ] Web Security
+    - [ ] Data in The Low Level
+      - [ ] Host
+      - [ ] Socket
+      - [ ] Bit
+      - [ ] Byte
+      - [ ] Bytes
+      - [ ] Character
+      - [ ] ASCII
+      - [ ] Data Transmission
+      - [ ] Base64 Encoding
+        - [ ] Encoding
+        - [ ] Decoding
+    - [ ] Cryptography
+      - [ ] Cryptanalysis
+      - [ ] Information Security
+        - [ ] Confidentiality
+        - [ ] Availability
+        - [ ] Integrity
+      - [ ] Ciphertext
+        - [ ] Plaintext
+        - [ ] Cipher
+        - [ ] Encryption & Decryption
+        - [ ] Secret Key
+        - [ ] Keyspace
+      - [ ] Symmetric Cryptography
+        - [ ] Block Cipher
+        - [ ] Padding
+        - [ ] Stream Cipher
+        - [ ] Key Distribution Problem
+      - [ ] Hash Function
+        - [ ] Hash Value
+        - [ ] Collision Resistance
+      - [ ] Message Authentication Code (MAC)
+        - [ ] Cryptographic Hash
+        - [ ] Symmetric Encryption Algorithm
+      - [ ] Asymmetric Cryptography
+        - [ ] Public Key
+        - [ ] Private Key
+      - [ ] Cryptography Protocol
+    - [ ] Man-in-the-middle Attack
+      - [ ] Eavesdropping
+        - [ ] Sniffing
+        - [ ] Intercepting
+        - [ ] Tampering
+        - [ ] Fabricating
+    - [ ] HTTPS
+      - [ ] HTTP & HTTPS
+      - [ ] Benefit HTTPS
+        - [ ] Secure Communication
+        - [ ] Data Integrity
+        - [ ] Privacy & Security
+        - [ ] Faster Performance
+        - [ ] SEO (Search Engine Optimization)
+        - [ ] New Standard
+    - [ ] Secure Socket Layer (SSL)
+      - [ ] Transport Socket Layer (TLS)
+      - [ ] SSL Handshake
 
 
 
