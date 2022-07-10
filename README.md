@@ -19,14 +19,14 @@
   - [x] Web Assembly
     - [x] Safe
     - [x] Fast
-    - [ ] Portable Code
-    - [ ] Compact Code
-    - [ ] Specification
-  - [ ] EcmaScript
-    - [ ] Specification
-  - [ ] WebSocket
-    - [ ] Specification
-    - [ ] Application
+    - [x] Portable Code
+    - [x] Compact Code
+    - [x] Specification
+  - [x] EcmaScript
+    - [x] Specification
+  - [x] WebSocket
+    - [x] Specification
+    - [x] Application
   - [ ] WebRTC
     - [ ] Specification
     - [ ] Application
@@ -132,7 +132,7 @@ From the Device Access side there is support such as Geolocation which allows th
 
 ### Specification
 
-The specifications are at:
+You can see the specifications here :
 
 https://html.spec.whatwg.org/multipage/
 
@@ -196,6 +196,66 @@ Can be sent over lightweight networks to reduce time, save bandwidth and be resp
 
 ### Specification
 
-Specifications in:
+You can see the specifications here :
 
 http://webassembly.github.io/spec/core/
+
+
+
+---
+
+
+
+## EcmaScript
+
+<img src="assets/EcmaScript-latest.PNG" style="zoom:110%;" />
+
+Javascript is the language described and standardized in ECMA-262. The standard language in ECMA-262 is called ECMAScript. What do you know about in-browser javascript and node.js is a superset of ecmascript.
+
+<img src="assets/EcmaScript.png" style="zoom:110%;" />
+
+ECMAScript is a specification for a scripting language standardized by ECMA International. Created to standardize grammar in javascript. Browser service providers work together to create a javascript engine that can recognize and follow ECMAScript standards.
+
+Currently EcmaScript 2022 with 13th edition is the latest and final version finalized by Technical Committee Number 39 (TC39) at the time this document was written.
+
+Every time a new version comes out new functionality is added to the JavaScript engine as new objects and new methods.
+
+
+
+### Specifications
+
+You can see the specifications here :
+
+https://tc39.es/ecma262/
+
+
+
+---
+
+
+
+## Web Sockets 
+
+Web Socket is a computer communications protocol that support full-duplex communication channel over a single TCP Connection. In the browser environment also exist Web Socket API that allows us to use the Web Socket Protocol. With web sockets within the user browser we can perform Full Duplex communication (two-way communication such as telephone) in a TCP (Transmission Control Protocol) connection with the server.
+
+The Web Socket API was designed by the IETF (Internet Engineering Task Force) an organization that regulates internet standards, the IETF also synergizes with the W3C so the development is aligned. Currently Web Socket Protocol can be used in almost all browsers such as Microsoft Edge, Firefox, Chrome, Internet Explorer, Safari and Opera.
+
+
+
+### Specifications
+
+You can see the specifications here :
+
+https://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-17
+
+https://html.spec.whatwg.org/multipage/web-sockets.html#network
+
+
+
+Below is an example of a web application to do real-time chat using websocket on one of the platforms that I have developed before.
+
+<img src="assets/WebSocket-Apps.png" style="zoom:120%;" />
+
+
+
+## WebGL
