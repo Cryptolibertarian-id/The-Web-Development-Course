@@ -88,4 +88,42 @@ HTML 5.2 introduces semantic concepts and a set of APIs for building complex web
 
 ### Semantic Advantage
 
-From the Semantic side there are new HTML Elements for interacting with multimedia and graphic content such as <video>, <audio>, <canvas> and support for the SVG API and MathML API for displaying mathematical formulas in web documents.
+From the Semantic side there are new HTML Elements for interacting with multimedia and graphic content such as :
+
+```html
+<video> 
+<audio> 
+<canvas> 
+```
+
+and support for the SVG API and MathML API for displaying mathematical formulas in web documents.
+
+
+
+### Connectivity Advantage
+
+In terms of connectivity, there is a WebSocket API for fast full duplex communication between the server and client, the Server Sent Event (SSE) API so that the server can push events to the client and the WebRTC API for real-time communication technology to perform videoconferencing in the browser without the need to use additional plugin. 
+
+
+
+### Storage Advantage
+
+From the Storage side, there is a Web Storage API to store data in the browser with a key/value format. Consists of localStorage and sessionStorage. Then there is the IndexedDB API for storing large amounts of data, searching for data using the IndexedDB API is very fast because it uses indexing. There is also an API to detect whether the user's browser is online or offline (connected to the internet) and File API support to access files in our operating system.
+
+
+
+### Multimedia Advantage
+
+From the Multimedia side there is support for the Camera API, and WebVTT for creating subtitles and chapters. In addition there is a Canvas API for painting objects, support for WebGL to interact with 3D objects and an SVG API.
+
+
+
+### Performance Advantage
+
+In terms of performance, we have used a javascript engine that supports JIT compilation, there is a Web Worker if we want to empower threads, there is an XMLHTTPRequest Level 2 for fetching asynchronously using AJAX, there is a History API that can be used to manipulate history in the browser, there is Drag & Drop API for manipulating elements, Fullscreen API for a better user experience in watching shows.
+
+
+
+### Device Access Advantage
+
+From the Device Access side there is support such as Geolocation which allows the browser to access the user's location, there is a Touch Event that can be used to detect screen touches, there is a Device Orientation Detection that can read the screen position in portrait or landscape, and the Pointer lock API to lock the pointer on an object within some content on the web.
