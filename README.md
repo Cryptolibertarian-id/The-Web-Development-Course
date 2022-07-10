@@ -28,7 +28,14 @@ The term Open Web Platform itself was introduced by the W3C and in 2011 the CEO 
 
 
 
-
-
 ---
 
+## Technical Specification
+
+Each technology has a Specification, please note 
+
+> "Specification is not a user manual", 
+
+The purpose of the specification is the goal used to explain to programmers who is implementing the technology and what features must be there and how to implement it.
+
+The collection of technologies in the Open Web Platform are computer languages and APIs within the scope of web technologies such as:
